@@ -1,0 +1,2 @@
+# stratego
+java stratego
